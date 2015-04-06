@@ -10,3 +10,5 @@ When I'm not doing homework or with my friends I'm usually playing video games, 
 ####Programming Background
 
 Before this year I had never programmed before, and my first experience with anything of the sort was actually HTML and CSS. I played with them for about six months before branching out to Python and then beginning the intro to programming classes here at OSU. I initially came into the CS program with the intention of pursuing web development so I'm very interested in how I'll like this course. 
+
+So far in the courses here I've done C++, C, Assembly, and Python, which I've enjoyed but I'm excited to learn others and see what else is out there. The programing prjects have ranged from dull to useful to cool, but the ones I enjoyed most involved a visual element such as Xming graphics or Conway's Game of Life. I think that's why I enjoy HTML and CSS so much is because it has a visual output. 
